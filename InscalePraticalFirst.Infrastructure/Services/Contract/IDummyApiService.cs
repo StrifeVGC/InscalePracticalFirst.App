@@ -1,6 +1,6 @@
 ﻿using InscalePracticalFirst.Domain.Models.HttpReponseModels;
 
-namespace InscalePraticalFirst.Infrastructure.Services.Implementation
+namespace InscalePraticalFirst.Infrastructure.Services.Contract
 {
     public interface IDummyApiService
     {
