@@ -14,7 +14,7 @@ namespace InscalePracticalFirst.Domain.Repositories.Implementation
 
         public async Task BulkInsertUserDataAsync(List<UserData> userDatas)
         {
-            await _context.AddRangeAsync(userDatas);
+            await _context.UserData.AddRangeAsync(userDatas);
             await _context.SaveChangesAsync();
         }
 
