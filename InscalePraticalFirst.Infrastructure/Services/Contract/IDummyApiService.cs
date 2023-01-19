@@ -1,4 +1,4 @@
-﻿using InscalePracticalFirst.Domain.Models.HttpReponseModels;
+﻿using InscalePracticalFirst.Domain.Models.ApiModels;
 
 namespace InscalePraticalFirst.Infrastructure.Services.Contract
 {

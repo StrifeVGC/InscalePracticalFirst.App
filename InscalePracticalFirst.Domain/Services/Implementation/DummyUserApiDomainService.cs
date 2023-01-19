@@ -1,4 +1,5 @@
-﻿using InscalePracticalFirst.Domain.Models.HttpReponseModels;
+﻿using InscalePracticalFirst.Domain.Models.ApiModels;
+using InscalePracticalFirst.Domain.Models.HttpReponseModels;
 using InscalePracticalFirst.Domain.Services.Contract;
 
 namespace InscalePracticalFirst.Domain.Services.Implementation

@@ -1,4 +1,4 @@
-﻿namespace InscalePracticalFirst.Domain.Models.HttpReponseModels
+﻿namespace InscalePracticalFirst.Domain.Models.ApiModels
 {
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
     public class AddressObject

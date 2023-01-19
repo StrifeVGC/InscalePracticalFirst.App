@@ -1,4 +1,4 @@
-﻿namespace InscalePracticalFirst.Domain.Models.HttpReponseModels
+﻿namespace InscalePracticalFirst.Domain.Models.ApiModels
 {
     public class Post
     {

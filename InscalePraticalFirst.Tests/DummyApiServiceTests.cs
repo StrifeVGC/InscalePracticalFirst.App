@@ -1,3 +1,4 @@
+using InscalePracticalFirst.Domain.Models.ApiModels;
 using InscalePracticalFirst.Domain.Models.HttpReponseModels;
 using InscalePracticalFirst.Domain.Repositories.Contract;
 using InscalePracticalFirst.Domain.Services.Contract;
